@@ -1,1 +1,1 @@
-https://github.com/JonnyLunaG/Actividad3DWSpringBoot.git
+https://github.com/JonnyLunaG/Actividad2DW_JSP.git
